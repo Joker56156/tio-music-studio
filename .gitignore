@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Database
+backend/data/*.db
+backend/data/*.db-journal
+
+# Generated audio
+backend/outputs/*
+!backend/outputs/.gitkeep
+
+# ML Models (too large for git)
+backend/models/ace-step/checkpoints/
+backend/models/YuE/
+backend/models/DiffRhythm/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.bin
+
+# LoRA training artifacts
+training_data/
+checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Redis
+dump.rdb
+
+# Logs
+*.log
+celery*.pid
