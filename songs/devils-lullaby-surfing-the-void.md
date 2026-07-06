@@ -21,8 +21,9 @@ signature it can open, turn, and close on.
 ## Style prompt (ACE-Step `tags`)
 
 > dark phonk trap, dream phonk, hypnotic lullaby trap, half-time 50 BPM, male
-> vocals, soft haunting sung hook, breathy melodic verses, whispered demonic
-> backing, devil-horn cowbell melody, spiral-eye sub bass pulsing like a
+> vocals, soft slightly creepy male voice, close-mic breathy sung hook, hushed
+> unsettling melodic verses, gentle whispered menace, faintly detuned off-key
+> tone, devil-horn cowbell melody, spiral-eye sub bass pulsing like a
 > heartbeat, dreamy surf-glide synth pads, distorted wireframe-sheep percussion,
 > deep 808 undertow, glitchy ASMR static, pink-cyan neon reverb, sleep-paralysis
 > atmosphere, chromatic-aberration shimmer, occasional screwed-and-chopped
