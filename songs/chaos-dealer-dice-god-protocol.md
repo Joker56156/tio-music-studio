@@ -13,12 +13,11 @@ literally deals fate — every roll is loaded, every outcome pre-carved.
 ## Style prompt (ACE-Step `tags`)
 
 > dark phonk trap, circus punk, horrorcore rap, half-time 66 BPM, male vocals,
-> menacing sparse verses half-rapped half-laughed, gleeful gang-chant chorus,
-> pitched-down jester howl on the hook, detuned calliope lead, haunted pipe
-> organ stabs, cavernous distorted 808s, swinging triplet hi-hats, flickering
-> snare rolls like tumbling dice, warped carnival samples, bitcrushed ad-libs,
-> deep sub-bass, sudden stop-start drops, lo-fi tape warmth, sinister big-top
-> atmosphere, aggressive, chaotic
+> calm menacing flow, low measured delivery, spoken-sung verses, restrained
+> chorus with soft backing vocals, detuned calliope lead, haunted pipe organ
+> stabs, cavernous 808s, swinging triplet hi-hats, snare rolls like tumbling
+> dice, warped carnival samples, clean natural vocals, deep sub-bass, lo-fi tape
+> warmth, sinister big-top atmosphere, moody, controlled
 
 **What changed from the older version & why**
 
@@ -57,22 +56,22 @@ Every sharp little edge clawing your faith away
 Ticker in my palm, rigged roulette heart
 Numbers in my notebook tear your luck apart
 Snake eyes watching from the mask I wear
-You pray for a pattern — [laughs] there's nothing there
+You pray for a pattern, there's nothing there
 
 [Chorus]
-Roll the dice and weep (weep!)
-I decide what you keep (keep!)
+Roll the dice and weep
+I decide what you keep
 Beg the odds to bend
 I just load 'em again
-Roll the dice and weep (weep!)
-Your promises cheap (cheap!)
+Roll the dice and weep
+Your promises cheap
 You came here to win
-[pitched-down] I only tighten the grin
+I only tighten the grin
 
 [Verse 2]
 Pips bleed red on the felt-stained floor
 You ask for a cut, I hand you a war
-Pipe metal screams when the whole wheel turns
+Pipe metal hums when the whole wheel turns
 Every flash of a face is just more to burn
 Dealer in the dark with a chalk-white laugh
 Shift one grain of sand, split your life in half
@@ -80,47 +79,38 @@ You call it chance — I call it art
 Signed in ash on your racing heart
 
 [Bridge]
-[crescendo]
 Chairs float up, the table legs shake
 Probability snaps like a wishbone break
 You reach for the math but the math went wrong
 [whispered] I carved your outcome in the walls all along
 
-[Drop]
-[stop] ...
-[beat drops] Snake eyes.
-
 [Chorus]
-Roll the dice and weep (weep!)
-I decide what you keep (keep!)
+Roll the dice and weep
+I decide what you keep
 Beg the odds to bend
 I just load 'em again
-Roll the dice and weep (weep!)
-Your promises cheap (cheap!)
+Roll the dice and weep
+Your promises cheap
 You came here to win
-[pitched-down] I only tighten the grin
+I only tighten the grin
 
 [Outro]
-[pitched-down jester howl] Ha... ha... haaaa
-House lights die
-[whispered] The dice already know
+[whispered] House lights die
+The dice already know
 ```
 
-**What changed from the older version & why**
+**Vocal delivery — dialed back**
 
-- **Tightened rhyme & meter.** Verse lines are now paired into fuller couplets
-  with stronger internal rhyme (clean/obscene, tray/away, palm/apart) so the
-  flow lands harder over the half-time pocket.
-- **Delivered the hook the prompt promised.** The older lyric described a
-  "pitched-down jester howl on the hook" but never put it in the words. Added
-  `[pitched-down]` on the last chorus line and a dedicated `[Outro]` howl.
-- **Punched up the chorus** with call-and-response gang-chant ad-libs
-  (`weep!`, `keep!`, `cheap!`) to match the "gleeful gang chants" brief.
-- **Added a stop-start Drop section** (`[stop] ... [beat drops] Snake eyes.`) to
-  realize the "sudden stop-start drops for maximum chaos" line from the prompt.
-- **Woven in performance ad-libs** the verses were missing (`[laughs]` on the
-  "nothing there" turn) to keep the "half-laughed, half-rapped" character alive
-  inside the verse, not just the description.
-- Sharpened a few word choices for bite: "Coin hits wood" → "Coin bites wood",
-  "I give you war" → "I hand you a war", "the math's all wrong" → "the math went
-  wrong".
+The intent is a *controlled, low, menacing* performance rather than an unhinged
+one:
+
+- Removed the extreme vocal FX tags — no `pitched-down jester howl`, no
+  `bitcrushed ad-libs`, no `gleeful gang-chant` explosion. Prompt now asks for
+  `calm menacing flow`, `low measured delivery`, and `clean natural vocals`.
+- Stripped the shouted call-and-response chorus ad-libs (`weep!`/`keep!`/`cheap!`)
+  so the hook stays smooth and restrained.
+- Dropped the `[laughs]`, `[crescendo]`, and the loud stop-start `[Drop]` section;
+  softened `Pipe metal screams` → `hums`. Only quiet `[whispered]` cues remain
+  for texture.
+- Kept the tightened rhyming couplets and sharpened word choices ("Coin bites
+  wood", "I hand you a war", "the math went wrong").
